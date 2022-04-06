@@ -8,13 +8,9 @@ import java.util.UUID;
 @Document(collection = "Libros")
 public class BibliotecaModel {
 
-
-
-
-
         @Id
         private String id;
-        private String nombreLibro;
+        private String name;
         private String generoLiterario;
         private String autor;
         private String fecha;
@@ -30,11 +26,11 @@ public class BibliotecaModel {
         }
 
         public String getNombreLibro() {
-            return nombreLibro;
+            return name;
         }
 
         public void setNombreLibro(String nombreLibro) {
-            this.nombreLibro = nombreLibro;
+            this.name = nombreLibro;
         }
 
         public String getGeneroLiterario() {

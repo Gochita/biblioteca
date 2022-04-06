@@ -14,3 +14,7 @@ ENCONTRAR POR ID
 
 # DELETE
 ![image](https://user-images.githubusercontent.com/45043430/162009702-ef45cbda-07b9-4bcd-a4c7-c6e90df00c79.png)
+ 
+ 
+ # Mongo activity
+ ![image](https://user-images.githubusercontent.com/45043430/162011060-74ede842-cb9e-4c3b-971f-394f670f1f8b.png)
